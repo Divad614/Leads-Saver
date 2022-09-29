@@ -20,4 +20,4 @@ tabBtn.addEventListener("click", function () {
 
 ```
 
-![image](Divad614/Leads-Saver_JS/tree/master/README%20IMAGES/LeadTracker%20Tab%20Saver.png)
+![image](https://github.com/Divad614/Leads-Saver_JS/blob/master/README%20IMAGES/image.png)
